@@ -6,12 +6,12 @@ I'm a beginner programmer passionate about web development and open-source proje
 - 🔭 I’m currently working on website building
 
 ### 🔨 Projects
-- work in progress ...
--
+- work in progress python console calculator
+- open to ideas 
 
 ### 📫 Connect with Me
-- 💼 LinkedIn: [insert code here]
-- 🐦 Twitter: [insert code here](what?)
+- 💼 LinkedIn: [Helmut Schweitzer](https://www.linkedin.com/in/helmut-schweitzerg/)
+- 🐦 Twitter: [how can I better use this app?]
 
 <!--
 **Helmutdo/Helmutdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

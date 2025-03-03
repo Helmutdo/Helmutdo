@@ -3,7 +3,7 @@ I'm a beginner programmer passionate about web development and open-source proje
 
 - 🌱 I’m currently learning Python and Miscrosoft Azure
 - 👯 I’m looking to collaborate on project related similar technologies
-- 🔭 I’m currently working on website building
+- 🔭 I’m currently working on trinuble.com my and quatumcode.com
 
 ### 🔨 Projects
 - work in progress python console calculator

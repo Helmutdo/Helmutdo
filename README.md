@@ -9,7 +9,7 @@ Programmer crazy for technology. Thank you for visiting my profile! I would love
 
 ⚡ I’m looking to collaborate on projects related to similar technologies
 
-🔭 I’m currently working on [trinuble.com](https://trinuble.com) and [quatumcode.com](https://quatumcode.com)
+🔭 I’m currently working on grocery store app 
 
 <h2 align="center">Projects 🔨</h2>
 

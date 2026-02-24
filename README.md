@@ -45,11 +45,6 @@ Here are some technologies I work with or am actively improving:
 
 ---
 
-## 📈 GitHub Stats
-
-![Helmut’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Helmutdo&show_icons=true&theme=radical)
-
----
 
 ## 💬 Let’s Connect
 

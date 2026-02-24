@@ -1,37 +1,59 @@
-![Helmut Schweitzer Banner](https://media.licdn.com/dms/image/v2/D4E16AQG8C0oW3LY65g/profile-displaybackgroundimage-shrink_350_1400/B4EZVkS87vHgAc-/0/1741144445464?e=1748476800&v=beta&t=67HpQg6fKsc8AU8eMCW6pNSM_WXh4h8KyM6yVJWxzDs)
-
-<h1 align="center">Welcome to my profile! 👋</h1>
-
-<!-- Introduction -->
-Programmer crazy for technology. Thank you for visiting my profile! I would love to hear your thoughts and suggestions.
-
-🌱 I’m currently learning: Computer Science and Software Engineering
-
-⚡ I’m looking to collaborate on projects related to similar technologies
-
-🔭 I’m currently working on grocery store app 
-
-<h2 align="center">Projects 🔨</h2>
+![Helmut Schweitzer Banner](https://media.licdn.com/dms/image/v2/D4E16AQG8C0oW3LY65g/profile-displaybackgroundimage-shrink_350_1400/B4EZVkS87vHgAc-/0/1741144445464?e=1773273600&v=beta&t=TZXjoqCtKhA4S-54P7xGDpYaRTRP025R5l2Mn4BZHn4)
 
 
-- Python console games, calculator, GUI
-- Websites with Python
-- Websites with HTML5, CSS, and JavaScript
-- MySQL and Firestore databases
-- Android apps
+# 👋 Hi, I’m Helmut Schweitzer
 
+Junior Python & Automation Developer focused on building **real-world solutions with Python, automation workflows and data processing**.  
+I’m passionate about solving problems, automating processes, and integrating APIs to deliver practical value.
 
-<h2 align="center">Technologies👨🏻‍💻</h2>
+🔭 I’m currently exploring backend integration, workflow automation and applied AI.  
+🌱 Actively learning Python advanced topics and AI-applied workflows.  
+💬 Ask me about Python, automation, APIs and building developer tools.  
+📫 Reach me at: helmut.schweitzerg@gmail.com
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+Here are some technologies I work with or am actively improving:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,py,html,css,js,discord,firebase,mysql,nodejs,react&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,github,sqlite" />
 </p>
 
-<h2 align="center">Connect With Me 🤝</h2>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/helmut-schweitzerg/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://discord.gg/HTrECDRS" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-</p>
+## 🚀 Featured Projects
+
+### 🔎 **Mini SOC – Log Analysis & Alerting**
+- Python tool for processing SSH authentication logs and detecting brute-force patterns.
+- Exposes results via a **FastAPI REST API**.
+- Shows insights in a simple dashboard.
+
+---
+
+### 🔄 **Automation Workflows**
+- Scripts and workflows for task automation using Python and integration tools.
+- Includes API integration and scheduling.
+
+
+---
+
+### 📊 **Data & Development Tools**
+- Tools for data processing, simple CLI utilities and helper scripts that demonstrate logic and automation.
+- Code organized for readability and reuse.
+
+---
+
+## 📈 GitHub Stats
+
+![Helmut’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Helmutdo&show_icons=true&theme=radical)
+
+---
+
+## 💬 Let’s Connect
+
+Feel free to explore my repositories and reach out if you want to collaborate or talk about opportunities!
+
+🔗 LinkedIn: https://www.linkedin.com/in/helmut-schweitzerg  
+📧 Email: helmut.schweitzerg@gmail.com

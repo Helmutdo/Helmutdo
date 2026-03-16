@@ -1,4 +1,4 @@
-![Helmut Schweitzer Banner](https://media.licdn.com/dms/image/v2/D4E16AQG8C0oW3LY65g/profile-displaybackgroundimage-shrink_350_1400/B4EZVkS87vHgAc-/0/1741144445464?e=1773273600&v=beta&t=TZXjoqCtKhA4S-54P7xGDpYaRTRP025R5l2Mn4BZHn4)
+![Helmut Schweitzer Banner](https://media.licdn.com/dms/image/v2/D4E16AQG8C0oW3LY65g/profile-displaybackgroundimage-shrink_350_1400/B4EZVkS87vHgAc-/0/1741144445464?e=1775088000&v=beta&t=BAp9Q905ck7WLLQgnqzfM4rIztnvhgyyo0_cRxRIfSo)
 
 
 # 👋 Hi, I’m Helmut Schweitzer

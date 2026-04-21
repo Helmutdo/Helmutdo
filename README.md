@@ -1,54 +1,74 @@
 ![Helmut Schweitzer Banner](https://media.licdn.com/dms/image/v2/D4E16AQG8C0oW3LY65g/profile-displaybackgroundimage-shrink_350_1400/B4EZVkS87vHgAc-/0/1741144445464?e=1775088000&v=beta&t=BAp9Q905ck7WLLQgnqzfM4rIztnvhgyyo0_cRxRIfSo)
+# Helmut Schweitzer
 
-
-# 👋 Hi, I’m Helmut Schweitzer
-
-Junior Python & Automation Developer focused on building **real-world solutions with Python, automation workflows and data processing**.  
-I’m passionate about solving problems, automating processes, and integrating APIs to deliver practical value.
-
-🔭 I’m currently exploring backend integration, workflow automation and applied AI.  
-🌱 Actively learning Python advanced topics and AI-applied workflows.  
-💬 Ask me about Python, automation, APIs and building developer tools.  
-📫 Reach me at: helmut.schweitzerg@gmail.com
-
----
-
-## 🛠️ Tech Stack & Tools
-
-Here are some technologies I work with or am actively improving:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,github,sqlite" />
-</p>
+```python
+profile = {
+    "role":     "Python Backend Developer",
+    "focus":    ["LLM integration", "API automation", "backend systems"],
+    "stack":    ["FastAPI", "PostgreSQL", "Docker", "Next.js 14", "TypeScript"],
+    "ai":       ["Claude", "GPT-4o", "Gemini", "LangChain"],
+    "env":      "Arch Linux / Hyprland",
+    "status":   "open to remote"
+}
+```
 
 ---
 
-## 🚀 Featured Projects
+## Projects in production
 
-### 🔎 **Mini SOC – Log Analysis & Alerting**
-- Python tool for processing SSH authentication logs and detecting brute-force patterns.
-- Exposes results via a **FastAPI REST API**.
-- Shows insights in a simple dashboard.
+### [AI-coach](https://github.com/Helmutdo/AI-coach) 
+Full-stack endurance analytics platform. Pulls training data from **Strava OAuth**, normalizes heterogeneous metrics (HRV, sleep, body battery, power, pace, CTL/ATL/TSB) into a unified schema, and exposes a multi-model AI coach that runs **Claude + GPT-4o + Gemini** in parallel.
 
----
-
-### 🔄 **Automation Workflows**
-- Scripts and workflows for task automation using Python and integration tools.
-- Includes API integration and scheduling.
-
+```
+FastAPI · Next.js 14 · TypeScript · PostgreSQL · Docker
+Fernet encryption for OAuth tokens · rate limiting via slowapi
+Google OAuth (NextAuth v5) · deployed on Vercel + Railway
+```
 
 ---
 
-### 📊 **Data & Development Tools**
-- Tools for data processing, simple CLI utilities and helper scripts that demonstrate logic and automation.
-- Code organized for readability and reuse.
+### Agentic SRE System · AgentX Hackathon — 48h build
+Autonomous incident response agent. Ingests multimodal reports (text + logs + images), triages with LLMs, scores severity, creates tickets, routes engineer notifications — zero human in the loop for initial classification.
+
+```
+FastAPI · Next.js · PostgreSQL · Docker Compose
+LLM orchestration · Langfuse observability · prompt injection safeguards
+```
 
 ---
 
+### Multi-agent Fraud Detection · Reply AI Challenge — 6h build
+End-to-end fraud pipeline across heterogeneous financial datasets. Three specialized agents running in parallel:
 
-## 💬 Let’s Connect
+```
+GPS Impossibility Agent   →  haversine distance cross-referencing
+Behavioral Analysis Agent →  per-user transaction pattern modeling
+NLP Phishing Agent        →  SMS/email social engineering detection
 
-Feel free to explore my repositories and reach out if you want to collaborate or talk about opportunities!
+LangChain · OpenRouter (GPT-4o-mini) · Langfuse tracing
+```
 
-🔗 LinkedIn: https://www.linkedin.com/in/helmut-schweitzerg  
-📧 Email: helmut.schweitzerg@gmail.com
+---
+
+### [Mini SOC](https://github.com/Helmutdo/mini-soc-helmut)
+SSH brute-force detection from Linux auth logs. FastAPI backend · SQLite · real-time dashboard · IP geolocation.
+
+---
+
+## Stack
+
+| Layer | Technologies |
+|---|---|
+| Backend | Python · FastAPI · SQLAlchemy · Pydantic |
+| Database | PostgreSQL · SQLite |
+| AI/LLM | Anthropic Claude · OpenAI · Gemini · LangChain · OpenRouter |
+| Frontend | Next.js 14 · TypeScript · TailwindCSS |
+| Infra | Docker · AWS · Railway · Vercel |
+| Integrations | Strava OAuth · Garmin Connect · Google OAuth |
+| Environment | Arch Linux · Hyprland · Git |
+
+---
+
+## Contact
+
+[linkedin.com/in/helmut-schweitzerg](https://www.linkedin.com/in/helmut-schweitzerg) · helmut.schweitzerg@gmail.com · open to remote

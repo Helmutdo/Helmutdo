@@ -1,4 +1,4 @@
-![Helmut Schweitzer Banner](https://media.licdn.com/dms/image/v2/D4E16AQG8C0oW3LY65g/profile-displaybackgroundimage-shrink_350_1400/B4EZVkS87vHgAc-/0/1741144445464?e=1775088000&v=beta&t=BAp9Q905ck7WLLQgnqzfM4rIztnvhgyyo0_cRxRIfSo)
+![Helmut Schweitzer Banner](https://raw.githubusercontent.com/Helmutdo/androide-helmut/refs/heads/main/banner_tech_helmut_schweitzer.jpeg)
 # Helmut Schweitzer
 
 ```python
@@ -27,7 +27,7 @@ Google OAuth (NextAuth v5) · deployed on Vercel + Railway
 
 ---
 
-### Agentic SRE System · AgentX Hackathon — 48h build
+### [Agentic SRE System · AgentX Hackathon — 48h build](https://github.com/andresscode/agentx-hackathon-incident-agent)
 Autonomous incident response agent. Ingests multimodal reports (text + logs + images), triages with LLMs, scores severity, creates tickets, routes engineer notifications — zero human in the loop for initial classification.
 
 ```
@@ -37,7 +37,7 @@ LLM orchestration · Langfuse observability · prompt injection safeguards
 
 ---
 
-### Multi-agent Fraud Detection · Reply AI Challenge — 6h build
+### [Agentic Fraud Detection System · Reply AI Challenge — 6h build](https://github.com/Helmutdo/reply-ai-challenge)
 End-to-end fraud pipeline across heterogeneous financial datasets. Three specialized agents running in parallel:
 
 ```
